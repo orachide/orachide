@@ -2,7 +2,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=orachide&count_private=false&show_icons=true&theme=highcontrast)
 
-- 🔭 I’m currently working on [Yalendar](https://staging.yalendar.com) it's an alternative to Calendly
+- 🔭 I’m currently working on [Yalendar](https://yalendar.com) it's an alternative to Calendly
 - 🔭 I’m currently working on [Dinivas](https://github.com/dinivas/dinivas): Dinivas manage your private Cloud (OpenStack) infrastructure by providing many features based on popular Open Source projects
 
 [![Dinivas](https://github-readme-stats.vercel.app/api/pin/?username=dinivas&repo=dinivas&theme=highcontrast)](https://github.com/dinivas/dinivas) 
